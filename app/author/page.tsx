@@ -13,8 +13,8 @@ export default function AuthorPage() {
       <section className="author-layout">
         <div className="author-photo-wrap">
           <ChunkedImage
-            asset="author-small"
-            parts={1}
+            asset="author-original"
+            parts={6}
             alt="Александр Александрович Шаравин"
             className="author-photo"
           />
