@@ -1,9 +1,51 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { loadGzippedJson } from "./assetLoader";
 
-const BOOK_PARTS = 8;
+const RAW_BASE = "https://raw.githubusercontent.com/SHAA52/october1993/main/assets";
+
+const BOOK_FILES = [
+  "book-patch/p000-0.txt",
+  "book-patch/p000-1.txt",
+  "book-patch/p000-2.txt",
+  "book-text/part-001.txt",
+  "book-text/part-002.txt",
+  "book-text/part-003.txt",
+  "book-text/part-004.txt",
+  "book-patch/p005-0.txt",
+  "book-patch/p005-1.txt",
+  "book-patch/p005-2.txt",
+  "book-patch/p006-0.txt",
+  "book-patch/p006-1.txt",
+  "book-patch/p006-2.txt",
+  "book-patch/p007-0.txt",
+] as const;
+
+function decodeBase64(base64: string) {
+  const binary = atob(base64);
+  const bytes = new Uint8Array(binary.length);
+  for (let index = 0; index < binary.length; index += 1) {
+    bytes[index] = binary.charCodeAt(index);
+  }
+  return bytes;
+}
+
+async function loadBookPages() {
+  const parts = await Promise.all(
+    BOOK_FILES.map(async (file) => {
+      const response = await fetch(`${RAW_BASE}/${file}`);
+      if (!response.ok) throw new Error(`Book asset ${file}: ${response.status}`);
+      return response.text();
+    }),
+  );
+
+  const compressed = decodeBase64(parts.join("").trim());
+  const stream = new Blob([compressed]).stream().pipeThrough(new DecompressionStream("gzip"));
+  const text = await new Response(stream).text();
+  const pages = JSON.parse(text) as string[];
+  if (pages.length !== 106) throw new Error(`Expected 106 pages, received ${pages.length}`);
+  return pages;
+}
 
 export function BookReader() {
   const [pages, setPages] = useState<string[] | null>(null);
@@ -12,11 +54,12 @@ export function BookReader() {
   useEffect(() => {
     let active = true;
 
-    loadGzippedJson<string[]>("book-text", BOOK_PARTS)
+    loadBookPages()
       .then((data) => {
         if (active) setPages(data);
       })
-      .catch(() => {
+      .catch((reason) => {
+        console.error("Book loading failed", reason);
         if (active) setError(true);
       });
 
