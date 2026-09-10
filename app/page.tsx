@@ -10,7 +10,7 @@ export default function CoverPage() {
         <div className="cover-image-wrap">
           <ChunkedImage
             asset="cover"
-            parts={5}
+            parts={2}
             alt="Обложка книги Александра Шаравина «Уроки Великого Октября»"
             className="cover-image"
           />
