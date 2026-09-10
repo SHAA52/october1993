@@ -1,4 +1,4 @@
-const RAW_BASE = "https://raw.githubusercontent.com/SHAA52/october1993/main/assets";
+const RAW_BASE = "https://raw.githubusercontent.com/SHAA52/october1993/main/media";
 
 function partName(index: number) {
   return `part-${String(index).padStart(3, "0")}.txt`;
