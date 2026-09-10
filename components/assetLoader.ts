@@ -1,4 +1,4 @@
-const RAW_BASE = "https://raw.githubusercontent.com/SHAA52/october1993/main/media";
+const RAW_BASE = "https://raw.githubusercontent.com/SHAA52/october1993/main/assets";
 
 function partName(index: number) {
   return `part-${String(index).padStart(3, "0")}.txt`;
@@ -31,10 +31,10 @@ export async function loadImageAsset(asset: string, parts: number, mimeType: str
   return URL.createObjectURL(new Blob([decodeBase64(base64)], { type: mimeType }));
 }
 
-export async function loadGzippedAsset(asset: string, parts: number, mimeType: string) {
+export async function loadGzippedJson<T>(asset: string, parts: number): Promise<T> {
   const base64 = await fetchBase64Parts(asset, parts);
   const compressed = decodeBase64(base64);
   const stream = new Blob([compressed]).stream().pipeThrough(new DecompressionStream("gzip"));
-  const buffer = await new Response(stream).arrayBuffer();
-  return URL.createObjectURL(new Blob([buffer], { type: mimeType }));
+  const text = await new Response(stream).text();
+  return JSON.parse(text) as T;
 }
