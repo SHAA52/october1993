@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { loadGzippedAsset } from "./assetLoader";
 
-const BOOK_PARTS = 37;
+const BOOK_PARTS = 13;
 
 export function BookReader() {
   const [pdfUrl, setPdfUrl] = useState<string | null>(null);
