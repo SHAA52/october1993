@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { loadImageAsset } from "./assetLoader";
 
 type ChunkedImageProps = {
-  asset: "cover" | "author";
+  asset: string;
   parts: number;
   alt: string;
   className: string;
