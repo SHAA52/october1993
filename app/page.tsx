@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SiteHeader } from "../components/SiteHeader";
-import { ChunkedImage } from "../components/ChunkedImage";
+
 
 export default function CoverPage() {
   return (
@@ -8,9 +8,9 @@ export default function CoverPage() {
       <SiteHeader current="cover" />
       <section className="cover-hero">
         <div className="cover-image-wrap">
-          <ChunkedImage
-            asset="cover-small"
-            parts={2}
+          <img
+            src="/cover-front.webp"
+            
             alt="Обложка книги Александра Шаравина «Уроки Великого Октября»"
             className="cover-image"
           />

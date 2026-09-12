@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { SiteHeader } from "../../components/SiteHeader";
-import { ChunkedImage } from "../../components/ChunkedImage";
+
 import { authorBio } from "../../content/site";
 
 export const metadata: Metadata = { title: "Автор" };
@@ -12,9 +12,9 @@ export default function AuthorPage() {
       <SiteHeader current="author" />
       <section className="author-layout">
         <div className="author-photo-wrap">
-          <ChunkedImage
-            asset="author-original"
-            parts={6}
+          <img
+            src="/author-alexander-sharavin.webp"
+            width={488} height={609}
             alt="Александр Александрович Шаравин"
             className="author-photo"
           />
