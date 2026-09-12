@@ -1,0 +1,433 @@
+{
+  "sourceCommit": "418a52913c30ddc3aecf1aa8ffde00b9bfa5b477",
+  "files": [
+    {
+      "path": "public/author-alexander-sharavin.webp",
+      "sha256": "d83ce54879c42a6367c7fa9416a34f2f09bcbe5fb1da2fb1325548fbd2d72966"
+    },
+    {
+      "path": "public/book-pages/page-002.webp",
+      "sha256": "f5bc8cc206b5fe5b0dfae6045f97610d5c6d9d20cae5280d0cb6673962ccf06a"
+    },
+    {
+      "path": "public/book-pages/page-003.webp",
+      "sha256": "57b2689a50d595b723bc8ccfd1c70505fcfffe362c39213ec0fa68f5320a2abd"
+    },
+    {
+      "path": "public/book-pages/page-004.webp",
+      "sha256": "2996fccebf84dca5997bebfc1bf4df36939837694901ab31ab6c7041faaf358a"
+    },
+    {
+      "path": "public/book-pages/page-005.webp",
+      "sha256": "ddf599033ab794e2dd65dd56eb4dac5663b7711717245a993d7c36574ff7c76a"
+    },
+    {
+      "path": "public/book-pages/page-006.webp",
+      "sha256": "97948c4bd6dfa6208c105a9c23541fa4e8c7b11e86b68174edd1d49f8737626c"
+    },
+    {
+      "path": "public/book-pages/page-007.webp",
+      "sha256": "7c755927f281de926e4dc5ae782d928d15c90d90c9ff477e70311386b7abed52"
+    },
+    {
+      "path": "public/book-pages/page-008.webp",
+      "sha256": "4fe2f3e3d5aa124d016a3556bced8317547f82aa76a4267bdd02e87121c61b65"
+    },
+    {
+      "path": "public/book-pages/page-009.webp",
+      "sha256": "0d1c2e0139ed1eb7d2a7dd5dc761622a2415aff9458054de82316f170b7ccae7"
+    },
+    {
+      "path": "public/book-pages/page-010.webp",
+      "sha256": "7044bf9cab18f18df9d5ad4a2381852d6a52e94b0e33b8959200385eef9d714f"
+    },
+    {
+      "path": "public/book-pages/page-011.webp",
+      "sha256": "94b5a763838c0e6c0f554953d98c71c5626bd2858ffb35b333edc28004e08cc1"
+    },
+    {
+      "path": "public/book-pages/page-012.webp",
+      "sha256": "e1b0e8292b5151edab430cea64dd2a95bb43bda21581e955359b1b3a4e0d8d57"
+    },
+    {
+      "path": "public/book-pages/page-013.webp",
+      "sha256": "b12997a3e5be2858997f3c006f12b89d14c5654924162923e99fc737ba7555c5"
+    },
+    {
+      "path": "public/book-pages/page-014.webp",
+      "sha256": "a3c07749fba0c8157ac04674d9df54eab881ae59eb1fd5d9779da9b59dd899b2"
+    },
+    {
+      "path": "public/book-pages/page-015.webp",
+      "sha256": "9df0c52551845b68eae171fc5f7dce3d22cd08319a0ea7e903b3182ad19fa484"
+    },
+    {
+      "path": "public/book-pages/page-016.webp",
+      "sha256": "98da9fdd51e1967e98042ced84673d10b868e855954d9e4043fa6907ca8f796c"
+    },
+    {
+      "path": "public/book-pages/page-017.webp",
+      "sha256": "e07166fc760842377f80ac11ff12fb3ec97db92e04f6318520ac4c4b155d44b8"
+    },
+    {
+      "path": "public/book-pages/page-018.webp",
+      "sha256": "b3acea2b8bcf98964b4c2ec2e2c0bc8ab25488705a87ff49a20f1cbec2dfda62"
+    },
+    {
+      "path": "public/book-pages/page-019.webp",
+      "sha256": "c3bfbafda6aa47f4c8e61e2ef37091f159a6fc2c1d4350c7183aaaf4954c5110"
+    },
+    {
+      "path": "public/book-pages/page-020.webp",
+      "sha256": "9c215e3cc916460ada421f196b4188874f775d413d662642882de1ad72031498"
+    },
+    {
+      "path": "public/book-pages/page-021.webp",
+      "sha256": "303b5e95cd65e891d7ac177103d1c0349b3627236dc61b6b61a439f28d84510e"
+    },
+    {
+      "path": "public/book-pages/page-022.webp",
+      "sha256": "96e456f1b9050cbb18a107ce1336a0ce31695ac4af25998100cc24eca7bb0267"
+    },
+    {
+      "path": "public/book-pages/page-023.webp",
+      "sha256": "2aa15fc7ee66ed71085c153714ce0eedac997d2c05dfb603ec69ed43aed03e47"
+    },
+    {
+      "path": "public/book-pages/page-024.webp",
+      "sha256": "66167d75c8681ca3a3b9011245ebfcadea3f840cdb60ac7155e16809ff9a4098"
+    },
+    {
+      "path": "public/book-pages/page-025.webp",
+      "sha256": "0a45af267ee4e6a72fc6690d94105e8b1f7ee2c2e29319c7908070aac3f1ab4b"
+    },
+    {
+      "path": "public/book-pages/page-026.webp",
+      "sha256": "b4b1974fc66bdf6f44190eb750c427f59af408451dfccbfee519d40132e58e2e"
+    },
+    {
+      "path": "public/book-pages/page-027.webp",
+      "sha256": "50d8c029197cb538491bf5b71dde9d6430d6aea2726e797ea42cab91628e0434"
+    },
+    {
+      "path": "public/book-pages/page-028.webp",
+      "sha256": "294a79b4eec2b6ef038bced96a6798b9d04513c928d3559dd362bd76cecb9ae1"
+    },
+    {
+      "path": "public/book-pages/page-029.webp",
+      "sha256": "111eb87cadcef66128071888b1a219ed68f7dec3bb7d80eeb48efae990770dce"
+    },
+    {
+      "path": "public/book-pages/page-030.webp",
+      "sha256": "add568842564ef7022229517ca561b6ffca461b5a22e4162365dfd23726b496d"
+    },
+    {
+      "path": "public/book-pages/page-031.webp",
+      "sha256": "5a50df203372088125856c51f738182b6ad80a497d5745ae10f38284e152ad36"
+    },
+    {
+      "path": "public/book-pages/page-032.webp",
+      "sha256": "63e826dd9fe90608b9d29f8f18c6e73e6bb77858d49b47883e43af121e96c6e1"
+    },
+    {
+      "path": "public/book-pages/page-033.webp",
+      "sha256": "739167b335143b7726553ffe953064c90357112813d6c72ae468ae65f35bf99b"
+    },
+    {
+      "path": "public/book-pages/page-034.webp",
+      "sha256": "3f7525146cff6754ab544347d323be592e50bade62afd02a6aa63ac7b2f78abb"
+    },
+    {
+      "path": "public/book-pages/page-035.webp",
+      "sha256": "e739043bb5be5e7ef4f12c465ab98fffbc36522e892f9b5c665c7eb05a9737c8"
+    },
+    {
+      "path": "public/book-pages/page-036.webp",
+      "sha256": "6718bdae36b5e9f26325a16635f0a615c528b3408bc127b8301cd7bc33b01384"
+    },
+    {
+      "path": "public/book-pages/page-037.webp",
+      "sha256": "45084ea953a3311c7ed356146f5a76c4ca0cc32627a553a89bd09ecf300d1ff0"
+    },
+    {
+      "path": "public/book-pages/page-038.webp",
+      "sha256": "1f5a2c9dfbae4b23cc8a14f777d7283ed432dd1ae529465f474f6d7473092859"
+    },
+    {
+      "path": "public/book-pages/page-039.webp",
+      "sha256": "9ffdd024091d537f66b44c9fabfd9bb745a4ca1fe34505dc72189dc9ec6f1963"
+    },
+    {
+      "path": "public/book-pages/page-040.webp",
+      "sha256": "d119621e746f11bcb29bac25ab5d7ffb2e85d8dd8fca9152c3eafc6582745073"
+    },
+    {
+      "path": "public/book-pages/page-041.webp",
+      "sha256": "978ad34d564e55e71b65dfcbd160f5a66c3e6fde037093457b6d73ab1acc9f83"
+    },
+    {
+      "path": "public/book-pages/page-042.webp",
+      "sha256": "d0d1141573079445eced71cc95764460467679263fff3473ce066183d8c2a568"
+    },
+    {
+      "path": "public/book-pages/page-043.webp",
+      "sha256": "d3d970c0c768f17e7370beca41974a375746d330d9a7a1fa94989dd3db59d172"
+    },
+    {
+      "path": "public/book-pages/page-044.webp",
+      "sha256": "59b009a3fcb6f7dcff248a67f455dfc665cf513f7f6237ec4525a268b4b71ea6"
+    },
+    {
+      "path": "public/book-pages/page-045.webp",
+      "sha256": "ee4be67450c5472a8ffe82f45e2207e472d882691d90f18bef0ebff65ca4da65"
+    },
+    {
+      "path": "public/book-pages/page-046.webp",
+      "sha256": "11b47f5dc3b8f3e9a58f0bb693b88a13cc572271d10e1732c9d04d4006fef834"
+    },
+    {
+      "path": "public/book-pages/page-047.webp",
+      "sha256": "bfdbfc83cbfd3d3397acb63e4da30c1a80823089676ef66a21db7a8f7022d151"
+    },
+    {
+      "path": "public/book-pages/page-048.webp",
+      "sha256": "a0eea5478323a1aeae1309ad2c44df2a938a825b445acc8ae358889c53cef02c"
+    },
+    {
+      "path": "public/book-pages/page-049.webp",
+      "sha256": "c63cfa71417d1538a8181ee22fd99b57137752695732cb0da35f9367626eb291"
+    },
+    {
+      "path": "public/book-pages/page-050.webp",
+      "sha256": "a62b0b7cd8143670549166745b4c104ba4a029179f5bdb10df46fbb60fee8b4a"
+    },
+    {
+      "path": "public/book-pages/page-051.webp",
+      "sha256": "660f8fe3499275d5e9ce186abb5e57b1b08ec2a29d61098f8fcf0b705727a450"
+    },
+    {
+      "path": "public/book-pages/page-052.webp",
+      "sha256": "b50ac8a672cdc2740d44d397a0b3a8be8f10cf4d1e8b23e631f043b126da9c70"
+    },
+    {
+      "path": "public/book-pages/page-053.webp",
+      "sha256": "eac05df843c6562064e3b6a30bec04cf356e7569de7dc1da8caf940a78b9f97f"
+    },
+    {
+      "path": "public/book-pages/page-054.webp",
+      "sha256": "1e3fdf34c421a621d8c8bb602b033734eb693a9b191eb3568afa26e2c815d7c4"
+    },
+    {
+      "path": "public/book-pages/page-055.webp",
+      "sha256": "cc47012931928941aa0b9a8a2a479a4c6164a45b913701cf67cd10957c1ae2b6"
+    },
+    {
+      "path": "public/book-pages/page-056.webp",
+      "sha256": "c1dfe4d6ebe0ae6e8b4e0f26ae8eeabb078575b749177406d2c696c0107c86f8"
+    },
+    {
+      "path": "public/book-pages/page-057.webp",
+      "sha256": "3a715bc1aa75c7aa8127706c3c48b7c63f5ce640f697ceb5bd4cb92dc3e8d0da"
+    },
+    {
+      "path": "public/book-pages/page-058.webp",
+      "sha256": "d3a78bb1f0ba6d718f9401e5b5acbf08454411aed0e253525b8edcf5cdcd04c9"
+    },
+    {
+      "path": "public/book-pages/page-059.webp",
+      "sha256": "65fe09d69141b262c581b70320db52a13716389fd536e31760bffe70b3406340"
+    },
+    {
+      "path": "public/book-pages/page-060.webp",
+      "sha256": "9de163c2c6d7c7b947b43f690258f2d746ea2c5a1e169aa377ea562d5c6a3c8d"
+    },
+    {
+      "path": "public/book-pages/page-061.webp",
+      "sha256": "f4ced51f2a47a1baf44882ee4fad7c95ae2832f608f689945caef93e1b2c27cb"
+    },
+    {
+      "path": "public/book-pages/page-062.webp",
+      "sha256": "ec6ac22b6ef0f4bb4d49ec4e7028326e8d6783c85559640a465f2fbafa0a58cd"
+    },
+    {
+      "path": "public/book-pages/page-063.webp",
+      "sha256": "7decec111d2efe061e1a282a6522fe1e12474bbba4444c6b1867e4e5b42008b4"
+    },
+    {
+      "path": "public/book-pages/page-064.webp",
+      "sha256": "3a6d5dc47589b7cd13c8ecb57d3dc128084fb1006fd11775a41b1c8d8d1ba0a5"
+    },
+    {
+      "path": "public/book-pages/page-065.webp",
+      "sha256": "d2fd5b5b95a320b3576264dd3276ff3e5461da92fa2919884051d280344e02f7"
+    },
+    {
+      "path": "public/book-pages/page-066.webp",
+      "sha256": "31da1db361b598e705713c9c1802343aaf0244bda83c592ef5f631d24eb4f60c"
+    },
+    {
+      "path": "public/book-pages/page-067.webp",
+      "sha256": "29cbf3a2e7d422dc969688a4df7959d7a64782019af0bba55baab368731968cc"
+    },
+    {
+      "path": "public/book-pages/page-068.webp",
+      "sha256": "fb6e88dd2c21548f0a31c68e82113e9cdbec98dc9f8d9f2897a94b51e72f0c84"
+    },
+    {
+      "path": "public/book-pages/page-069.webp",
+      "sha256": "95683caf74db84c2c6869ebdfa36ca3fbd4ac03aa96c29e02285691078198936"
+    },
+    {
+      "path": "public/book-pages/page-070.webp",
+      "sha256": "0f72310ecc2bde4e985a86043b28e4f21ad7c0c0c12786eee1b597ce4aab4f9b"
+    },
+    {
+      "path": "public/book-pages/page-071.webp",
+      "sha256": "9a6d4cb0c59076d6d4ac415c77aba3e10e0548e199e27ec21edf9aefc60084a9"
+    },
+    {
+      "path": "public/book-pages/page-072.webp",
+      "sha256": "472876293ef3c9dc95e0be59c511355ce81aa346780e5eaaee6084b0bbcf6eb2"
+    },
+    {
+      "path": "public/book-pages/page-073.webp",
+      "sha256": "5bee3055ec1acda34b55da2d77b82e7ef71a396cec6a8d1bdc42d792f243a3a3"
+    },
+    {
+      "path": "public/book-pages/page-074.webp",
+      "sha256": "c8e666f12197f63d6d538d20c4081ffff1169fa79245e252417710a31e95bae6"
+    },
+    {
+      "path": "public/book-pages/page-075.webp",
+      "sha256": "4fabec01fd064a8a65400dab4c9dbbe16fe62a7eb483193b5e18f67f8ca170ba"
+    },
+    {
+      "path": "public/book-pages/page-076.webp",
+      "sha256": "4bb800fb866d95083334af1f04be61be250f64759f71c409f68bb4e9bce5baf1"
+    },
+    {
+      "path": "public/book-pages/page-077.webp",
+      "sha256": "45fa26832efff996caea61c175db924524447626e8b5eaf769ce1d2df10b925d"
+    },
+    {
+      "path": "public/book-pages/page-078.webp",
+      "sha256": "467b38d9989a1d5a4f80ef7a263be67cb72b47dda82f3acbb8ff7a0753066570"
+    },
+    {
+      "path": "public/book-pages/page-079.webp",
+      "sha256": "e32d90170430bb29b74e70ecf4de3e29457f6c701c913314a3577fe523d4e14f"
+    },
+    {
+      "path": "public/book-pages/page-080.webp",
+      "sha256": "ba08719760ddc2939e2cbd1a88b3a015c484dffc0f9b31a31f5912eb531a98f5"
+    },
+    {
+      "path": "public/book-pages/page-081.webp",
+      "sha256": "24f23dc422c1f1fd3845e35db8cbe50a8f4a8882358e3af04f7f3ee3770d5f74"
+    },
+    {
+      "path": "public/book-pages/page-082.webp",
+      "sha256": "e89d99915fc6ff11b394febca827ae51e81d170962ccd40d1f5051cbb1763f75"
+    },
+    {
+      "path": "public/book-pages/page-083.webp",
+      "sha256": "536bd83a2bed8ddec86aee9a76f24f39580bc579f408047b9634d7000cd74955"
+    },
+    {
+      "path": "public/book-pages/page-084.webp",
+      "sha256": "9e6c6a5dd7c0bca365b866c2cf5cea1eec63b5d75d44011a7dbf30ab4e5c96a0"
+    },
+    {
+      "path": "public/book-pages/page-085.webp",
+      "sha256": "1adc64a2f41c71ec3ea679f0ad9c803d6360d2abe2c128310eb9da84ef9b5931"
+    },
+    {
+      "path": "public/book-pages/page-086.webp",
+      "sha256": "117ad05179bb60be4443ed4c9082a785c244997e3f7531570c5edf047e5dc57c"
+    },
+    {
+      "path": "public/book-pages/page-087.webp",
+      "sha256": "2a9261610437bf38c3e74b6b05fdc57ca6953a3e92066bde14ea11ae0da46fbd"
+    },
+    {
+      "path": "public/book-pages/page-088.webp",
+      "sha256": "33422f3235c5aaf04c9c07e699b67761ad507164eb557aceead42f9be2edcd7d"
+    },
+    {
+      "path": "public/book-pages/page-089.webp",
+      "sha256": "fa60dfdb45b09c7c241d273c9ef807ddc30eb2837b7d33e4ccdffc2fb8d13e7d"
+    },
+    {
+      "path": "public/book-pages/page-090.webp",
+      "sha256": "6b3f0b70a07751a9279d333249e50602ecc351eff7e72b2afd885b1077da1a25"
+    },
+    {
+      "path": "public/book-pages/page-091.webp",
+      "sha256": "b5debc4031f11c41c134faa5addfd25caf543d9b0474da34643834814c438dd7"
+    },
+    {
+      "path": "public/book-pages/page-092.webp",
+      "sha256": "49a3a23c56687f10330e57e2db197eed67f65b99b52321131794f0171a80cd40"
+    },
+    {
+      "path": "public/book-pages/page-093.webp",
+      "sha256": "f4bb032adef3bff3789dba816ffec55534d190ad24e60e4fc97cf117093f6113"
+    },
+    {
+      "path": "public/book-pages/page-094.webp",
+      "sha256": "ccc1726a640e11cc2a431de5b0e2574e06bcf093fb08e51f3899c7f88379f959"
+    },
+    {
+      "path": "public/book-pages/page-095.webp",
+      "sha256": "8b8d1f9900768e90d7116ec578d9513001908d3a82a925c58b91b5089475ffbf"
+    },
+    {
+      "path": "public/book-pages/page-096.webp",
+      "sha256": "499ab7fcbafb9af58eeacf23824831340ca06a05409adc147a7193ba5fee2077"
+    },
+    {
+      "path": "public/book-pages/page-097.webp",
+      "sha256": "ab1a839ad4663d5f0ece5de75bae834366147acfa80a0fab47d87483301e94ed"
+    },
+    {
+      "path": "public/book-pages/page-098.webp",
+      "sha256": "3a022f1f8467b3c657fde4258450d35fd386a0803964e8862440ef86abd502b4"
+    },
+    {
+      "path": "public/book-pages/page-099.webp",
+      "sha256": "b2a7bf4d5b5d03324b25a0d46bf89a80e8976aab35205a1eb7d7229993cfd664"
+    },
+    {
+      "path": "public/book-pages/page-100.webp",
+      "sha256": "fb684b03f832c892f10c16e51070374efef43e3ad145148a96c1aaede9e4228e"
+    },
+    {
+      "path": "public/book-pages/page-101.webp",
+      "sha256": "32902436c952b663efd76bb77818b582751b0893ea98478f5318a2609d4d909c"
+    },
+    {
+      "path": "public/book-pages/page-102.webp",
+      "sha256": "36c6b654e9d70d31e0a869bfa9d454e03487a4da65c4be2f98529ceb33e797fb"
+    },
+    {
+      "path": "public/book-pages/page-103.webp",
+      "sha256": "c02ab508154956d3462d2a2f4b7b6f2c0848c3668f2e7504fe656e2bf191c2af"
+    },
+    {
+      "path": "public/book-pages/page-104.webp",
+      "sha256": "c7d763053e9b26d9fd4420858b4edd66d12068989472db586329d5d31e23f90a"
+    },
+    {
+      "path": "public/book-pages/page-105.webp",
+      "sha256": "985bb364b0bfe4aca00a332dbb98b27f70147d92ed28057b7b440b1d814556d2"
+    },
+    {
+      "path": "public/book-pages/page-106.webp",
+      "sha256": "b1ea12e51f72fe943d63aae5ce61ec1e2585fe722b950f17f4e7004544e28954"
+    },
+    {
+      "path": "public/cover-front.webp",
+      "sha256": "f002bca15f3578977a12fb3e1c6a5b996a4e169aa3766aa20e60b6940b22e5a4"
+    }
+  ]
+}
